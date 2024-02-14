@@ -1,9 +1,14 @@
 # awesome-llm-decentralized
 Collection of papers, algorithms, and other resources to allow you to train, perform inference, and deploy LLMs in the cheapest way possible!
 
+## Tools 🛠️
+
+| Name | Selling Point | Links |
+|:----|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/skypilot-org/skypilot.svg?style=social&label=Star)](https://github.com/skypilot-org/skypilot)<br>[SkyPilot: Run LLMs and AI on Any Cloud](https://github.com/skypilot-org/skypilot) | Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface |[Github](https://github.com/skypilot-org/skypilot)|
 
 
-## Knowledge Distillation
+## Papers
 
 | Title & Authors | Selling Point | Links |
 |:----|  :----: | :---:|
