@@ -5,7 +5,7 @@ Collection of papers, algorithms, and other resources to allow you to train, per
 
 | Name | Selling Point | Links |
 |:----|  :----: | :---:|
-|[![Star](https://img.shields.io/github/stars/skypilot-org/skypilot.svg?style=social&label=Star)](https://github.com/skypilot-org/skypilot)<br>[SkyPilot: Run LLMs and AI on Any Cloud](https://github.com/skypilot-org/skypilot) | Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface: Managed Spot: 3-6x cost savings using spot VMs, with auto-recovery from preemptions, Optimizer: 2x cost savings by auto-picking the cheapest VM/zone/region/cloud, Autostop: hands-free cleanup of idle clusters |[Github](https://github.com/skypilot-org/skypilot)|
+|[![Star](https://img.shields.io/github/stars/skypilot-org/skypilot.svg?style=social&label=Star)](https://github.com/skypilot-org/skypilot)<br>[SkyPilot: Run LLMs and AI on Any Cloud](https://github.com/skypilot-org/skypilot) | Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface: Managed Spot: 3-6x cost savings using spot VMs, with auto-recovery from preemptions, Optimizer: 2x cost savings by auto-picking the cheapest VM/zone/region/cloud, Autostop: hands-free cleanup of idle clusters |[Github](https://github.com/skypilot-org/skypilot) <br/> [Whitepaper](https://arxiv.org/pdf/2205.07147.pdf)|
 
 
 ## Papers
